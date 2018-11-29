@@ -1,29 +1,17 @@
 # Challenge
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.
+This project was generated with Angular CLI version 6.2.5, NodeJS version 10.14.0 and Bootstrap version 4.1.1
 
-## Development server
+## How to start
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+You will need to download NodeJs and install it. Once you installed NodeJS open de command promt and install Angular CLI with the following line:
+npm install -g @angular/cli
 
-## Code scaffolding
+Then, select the folder of the project and type "ng serve" to start the project.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Now, if you go to http://localhost:4200/ in your web browser you should see the project.
 
-## Build
+## Notes
+The challenge is not finished, the images are always from the same dog, that's because i couldn't pass the name of the dog form one component from another.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-using npm install bootstrap@4.1.1
