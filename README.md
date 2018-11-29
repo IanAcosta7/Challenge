@@ -4,7 +4,7 @@ This project was generated with Angular CLI version 6.2.5, NodeJS version 10.14.
 
 ## How to start
 
-You will need to download NodeJs and install it. Once you installed NodeJS open de command promt and install Angular CLI with the following line:
+You will need to download NodeJs and install it. Once you installed NodeJS open de command prompt and install Angular CLI with the following line:
 npm install -g @angular/cli
 
 Then, select the folder of the project and type "ng serve" to start the project.
